@@ -21,6 +21,10 @@ public class Vector1 {
      }
 
      scanner.close();
- }
+     //ejer 9 Copiar V5 en V6
+     int v6[] =new int [v5.length];
+     for (pos=0;pos<v6.length;pos++);
+     System.out.println();
+	 }
 }
 

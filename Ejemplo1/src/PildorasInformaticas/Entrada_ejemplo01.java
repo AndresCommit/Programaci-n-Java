@@ -15,6 +15,8 @@ public class Entrada_ejemplo01 {
 			System.out.println("Bienvenido, "+ usuario);
 		} else {
 			System.out.println("No cumples los requisitos para acceder, "+usuario+" ,lo sentimos.");
+			System.out.println("No puedes volver a acceder ,lo sentimos.");
+
 		}
 	}
 
